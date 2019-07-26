@@ -28,6 +28,14 @@ README (picamera)
 
         Feel free to modify!
 
+    Requirements
+
+        The script requires the Python 2.x framework and the corresponding
+        'python-picamera' package which should be available through the
+        default repositories. If not, you can find it here:
+
+            https://picamera.readthedocs.io
+
     License
 
         This project is distributed under the MIT License. You should have

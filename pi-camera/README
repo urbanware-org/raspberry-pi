@@ -18,7 +18,7 @@ README (picamera)
     Details
 
         This is a rudimentary script to perform various control operations
-        (e. g. change image settings,rotate and zoom) with a camera connected
+        (e. g. change image settings, rotate and zoom) with a camera connected
         to the on-board CSI Camera Connector interface. It comes with a simple
         text-based menu to select the preferred option.
 

@@ -43,10 +43,6 @@ def goodbye():
     sys.exit()
 
 
-def setup_menu():
-    print
-
-
 def main_menu():
     global zoom
     print

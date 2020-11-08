@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # ============================================================================
-# PiCamera - Rudimentary Raspberry Pi camera control script
+# Pi-Camera - Rudimentary Raspberry Pi camera control script
 # Copyright (C) 2020 by Ralf Kilian
 # Distributed under the MIT License (https://opensource.org/licenses/MIT)
 #
